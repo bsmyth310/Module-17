@@ -105,7 +105,7 @@ Our expression does not use Look-ahead or Look-behind assertions. These are adva
 
 ## Author
 
-My name is Ben Smyht and a I am a fullstack MERN developer student with Michigan State University's coding bootcamp. 
+My name is Ben Smyth and a I am a fullstack MERN developer student with Michigan State University's coding bootcamp. 
 
 *smythbenb@gmail.com
 *https://github.com/bsmyth310
